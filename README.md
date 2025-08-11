@@ -7,6 +7,6 @@ This is a library of all the different C++ coding exercises and small prototype 
 
 _Study Resources_ 
 -----------------------------------------------------------------------------------------------------------------
-_learncpp.com_
+_LEARNCPP.COM_
 
 [learncpp.com](https://www.learncpp.com/)
