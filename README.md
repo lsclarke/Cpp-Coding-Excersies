@@ -69,6 +69,20 @@ std::vector<int> RandomNumberGenerator_Approach_B(int a, int b, int loopCount) {
     }
     return newRandomNumberVector;
 }
+
+/// Main.cpp
+    //Approach B
+    std::vector<int> num = RandomNumberGenerator_Approach_B(0, 100, 5);
+
+    std::cout << "Uniform Int Distribution Method Approach B (vector):\n[ ";
+    for (auto& items : num) {
+        std::cout << items << " ";
+    }
+    std::cout << "]";
+    std::cout << std::endl;
+
+    std::cin.get();
+
 ```
 
 
