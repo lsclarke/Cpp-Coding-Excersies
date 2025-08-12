@@ -23,6 +23,7 @@ _LEETCODE WEBSITE_
 
 _Random Number Generator Excersies_
 
+Approach A:
 ```
 static void RandomNumberGenerator_Approach_A(int a, int b, int loopCount)
 {
@@ -44,3 +45,5 @@ static void RandomNumberGenerator_Approach_A(int a, int b, int loopCount)
     std::cout << "]";
 }
 ```
+
+
