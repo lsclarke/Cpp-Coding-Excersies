@@ -15,3 +15,5 @@ _FREECODECAMP CHANNEL_
 
 [https://www.youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp)
 
+_UDEMY COURSE: BEGINNING C++_
+[https://www.udemy.com/course/beginning-c-plus-plus-programming/](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
