@@ -85,4 +85,9 @@ std::vector<int> RandomNumberGenerator_Approach_B(int a, int b, int loopCount) {
 
 ```
 
+Output:
+```
+Uniform Int Distribution Method Approach B (vector):
+[ 66 66 12 8 14 ]
+```
 
