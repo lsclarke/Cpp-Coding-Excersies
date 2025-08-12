@@ -48,6 +48,12 @@ static void RandomNumberGenerator_Approach_A(int a, int b, int loopCount)
 }
 ```
 
+Output:
+```
+Uniform Int Distribution Method Approach A:
+[ 26 100 24 20 78 97 7 28 63 51 42 93 9 6 18 50 97 3 23 34 52 67 81 80 75 ]
+```
+
 Approach B:
 ```
 std::vector<int> RandomNumberGenerator_Approach_B(int a, int b, int loopCount) {
