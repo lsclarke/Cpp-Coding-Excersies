@@ -10,3 +10,8 @@ _Study Resources_
 _LEARNCPP.COM_
 
 [learncpp.com](https://www.learncpp.com/)
+
+_FREECODECAMP CHANNEL_
+
+[https://www.youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp)
+
