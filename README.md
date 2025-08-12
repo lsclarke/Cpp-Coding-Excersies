@@ -8,12 +8,10 @@ This is a library of all the different C++ coding exercises and small prototype 
 _Study Resources_ 
 -----------------------------------------------------------------------------------------------------------------
 _LEARNCPP.COM_
-
 [learncpp.com](https://www.learncpp.com/)
 
 _FREECODECAMP CHANNEL_
-
 [https://www.youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp)
 
-_UDEMY COURSE: BEGINNING C++_
+_UDEMY COURSE: BEGINNING C++ PROGRAMMING_
 [https://www.udemy.com/course/beginning-c-plus-plus-programming/](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
