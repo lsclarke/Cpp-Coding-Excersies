@@ -20,3 +20,27 @@ _LEETCODE WEBSITE_
 [https://leetcode.com/](https://leetcode.com/)
 
 -----------------------------------------------------------------------------------------------------------------
+
+_Random Number Generator Excersies_
+
+```
+static void RandomNumberGenerator_Approach_A(int a, int b, int loopCount)
+{
+    std::random_device rd;
+    static auto gen = std::mt19937(rd());     
+
+    auto distrib = std::uniform_int_distribution<>(a, b);
+
+    static std::vector<int> random_Number_Vector;
+
+    for (int n = 0; n != loopCount; ++n) {
+        random_Number_Vector.push_back(distrib(gen));
+    }
+
+    std::cout << "Uniform Int Distribution Method:\n[ ";
+    for (auto& items : random_Number_Vector) {
+        std::cout << items << " ";
+    }
+    std::cout << "]";
+}
+```
