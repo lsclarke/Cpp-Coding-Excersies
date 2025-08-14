@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{147f0e91-491b-4b02-8ba5-122d1a714dd6}</ProjectGuid>
-    <RootNamespace>MemoryLeakChecker</RootNamespace>
+    <ProjectGuid>{dbbb09f9-4307-4ddc-bed8-8c3b3e616a72}</ProjectGuid>
+    <RootNamespace>MemoryLeakExercise</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MemoryLeakChecker.cpp" />
+    <ClCompile Include="MemoryLeakExercise.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

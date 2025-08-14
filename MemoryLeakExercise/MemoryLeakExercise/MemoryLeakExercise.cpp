@@ -1,4 +1,4 @@
-// MemoryLeakChecker.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// MemoryLeakExercise.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -20,9 +20,9 @@ int main()
     cout << "Result: " << result_One << endl;
     cout << "Memory Leak no delete call\n" << endl;
 
-//////////////////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////
 
-    // No Memory Leak raw point Example
+        // No Memory Leak raw point Example
 
     int* y = new int;        //create new int
     *y = 10;
