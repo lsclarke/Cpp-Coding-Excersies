@@ -48,11 +48,11 @@ public:
 
 int main()
 {
-    vector<int> A{1,2,3,0,0,0};
-    vector<int> B{ 2,5,6 };
+    vector<int> A{1};
+    vector<int> B{};
 
     unique_ptr<Solution> solution;
-    solution->merge(A,3,B,3);
+    solution->merge(A,1,B,0);
 
     for (auto& items : A) {
         cout << items << " ";
